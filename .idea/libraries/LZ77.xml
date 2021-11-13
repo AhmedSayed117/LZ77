@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LZ77">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/LZ77.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
